@@ -31,7 +31,7 @@ A full-stack task and project management app to organize work and teams efficien
 
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - GitHub: [github.com/semretye](https://github.com/semretye)  
-- Email: your.email@example.com  
+- Email: semretseifegebriel@gmail.com 
 
 ---
 
