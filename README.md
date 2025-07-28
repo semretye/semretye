@@ -7,8 +7,8 @@ I'm a passionate person eager to build cool software projects and grow as a deve
 ## 💻 Skills & Technologies
 
 - Programming Languages: JavaScript, TypeScript, Java  
-- Frontend: React, Angular  
-- Backend: Node.js, Vert.x  
+- Frontend: React, Angular  ,react native ,word press,
+- Backend: Node.js, Vert.x ,
 - Databases: MySQL, MongoDB  
 - Tools: Git, Docker, VS Code
 
